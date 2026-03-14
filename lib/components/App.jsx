@@ -76,7 +76,7 @@ class App extends React.Component
 				<div className='header'>
 					<h1>
 						<a
-							href='https://github.com/lancedikson/bowser'
+							href='https://github.com/bowser-js/bowser'
 							target='_blank'
 							rel='noopener noreferrer'
 						>
@@ -135,7 +135,7 @@ class App extends React.Component
 				<div className='footer'>
 					Powered by{' '}
 					<a
-						href='https://github.com/lancedikson/bowser'
+						href='https://github.com/bowser-js/bowser'
 						target='_blank'
 						rel='noopener noreferrer'
 					>
